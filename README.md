@@ -1,4 +1,5 @@
-# SDK7 Template scene
+# Count Sheeps
+A Decentraland Game Jam 2023 entry.
 
 ## Try it out
 
